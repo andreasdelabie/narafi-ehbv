@@ -1,0 +1,8 @@
+baseURL = 'https://example.org/'
+languageCode = 'nl-BE'
+title = 'Narafi EHBV'
+theme = "hugo-theme-relearn-8.3.0"
+
+[params]
+    [params.search.page]
+        disable = false
