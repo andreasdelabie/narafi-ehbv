@@ -37,7 +37,7 @@ title = "Fases en Documenten"
 - Screening
     - Feedback geven
     - Re-shooten?
-- Fine cutj
+- Fine cut
     - Frame-accuraat monteren
     - Compositing
     - SVO's (graphics)
