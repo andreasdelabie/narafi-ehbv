@@ -24,6 +24,7 @@ title = "Fases en Documenten"
 ## Productie
 
 ## Post-Productie
+- [Folder structuur](https://github.com/andreasdelabie/init-film)
 - Ingest
 - Selectie
     - Rushes bekijken
@@ -36,7 +37,7 @@ title = "Fases en Documenten"
 - Screening
     - Feedback geven
     - Re-shooten?
-- Fine cut
+- Fine cutj
     - Frame-accuraat monteren
     - Compositing
     - SVO's (graphics)
