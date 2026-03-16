@@ -14,6 +14,7 @@ title = "Fases en Documenten"
 - [Breakdown](/narafi-ehbv/docs/DelabieMedia_Breakdown.xlsx)
 - Budget
 - Locaties
+- Camera/lens test
 - [Casting/Crew](/pre-productie/acteurs-zoeken/)
     - Gezamenlijke lezingen & repetities
     - Recce: locatiebezoek met alle departementen
@@ -22,6 +23,7 @@ title = "Fases en Documenten"
     - Call sheets
 
 ## Productie
+- Room tone opnemen!
 
 ## Post-Productie
 - [Folder structuur](https://github.com/andreasdelabie/init-film)
