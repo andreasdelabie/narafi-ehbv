@@ -14,8 +14,8 @@ content:
     fields:
       - name: title
         type: string
-      - name: category
-        type: select
+      - name: type
+        type: type
         options:
           values: [default, chapter]
       - name: body
