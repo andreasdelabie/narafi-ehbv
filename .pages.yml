@@ -1,3 +1,9 @@
+media:
+  - name: docs
+    label: Documents
+    input: static/docs
+    output: /static/docs
+    categories: [document,spreadsheet]
 content:
   - name: pages
     label: Pages
