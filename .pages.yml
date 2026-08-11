@@ -9,6 +9,7 @@ content:
     label: Pages
     type: collection
     path: content
+    filename: "{primary}.md"
     format: toml-frontmatter
     fields:
       - name: title
