@@ -3,3 +3,6 @@ content:
     label: Pages
     type: collection
     path: content
+    fields:
+      - name: title
+        type: string
