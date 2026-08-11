@@ -3,3 +3,4 @@ content:
     label: Pages
     type: collection
     path: content
+    format: yaml-frontmatter
