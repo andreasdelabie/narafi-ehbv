@@ -15,7 +15,7 @@ content:
       - name: title
         type: string
       - name: type
-        type: type
+        type: select
         options:
           values: [default, chapter]
       - name: body
