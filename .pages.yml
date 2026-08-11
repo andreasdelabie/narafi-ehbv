@@ -4,3 +4,8 @@ content:
     type: collection
     path: content
     format: toml-frontmatter
+    fields:
+      - name: title
+        type: string
+      - name: body
+        type: rich-text
