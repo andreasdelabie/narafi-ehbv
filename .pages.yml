@@ -20,3 +20,7 @@ content:
           values: [default, chapter]
       - name: body
         type: rich-text
+  - name: prompts
+    label: Prompts
+    type: file
+    path: prompts.md
