@@ -1,5 +1,6 @@
 +++
 title = 'Moodboard'
+type = 'default'
 +++
 - [eyecannndy.com](https://eyecannndy.com/)
 - [film.ai](https://flim.ai/)
