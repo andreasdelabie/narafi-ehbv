@@ -4,7 +4,8 @@ type = 'default'
 +++
 {{< youtube id=I3G6PK73rOM >}}
 
-> [!info] Zorg dat je tijdlijn zo clean mogelijk is! Geen audio als je dit niet nodig hebt, geen video effecten/plugins, geen 101 videotracks. Liefst 1 videotrack met alle beelden (eventueel elke camera op aparte track).
+> [!info] Info  
+> Zorg dat je tijdlijn zo clean mogelijk is! Geen audio als je dit niet nodig hebt, geen video effecten/plugins, geen 101 videotracks. Liefst 1 videotrack met alle beelden (eventueel elke camera op aparte track).
 
 ## Tags:
 
