@@ -1,5 +1,6 @@
 +++
 title = 'Acteurs zoeken'
+type = 'default'
 +++
 ## Facebook groepen
 
