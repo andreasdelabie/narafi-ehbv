@@ -1,5 +1,6 @@
 +++
 title = 'Fases en Documenten'
+type = 'default'
 +++
 ## Pre-Productie
 
