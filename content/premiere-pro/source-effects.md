@@ -1,5 +1,6 @@
 +++
 title = 'Source Effects'
+type = 'default'
 +++
 {{< youtube id=HzzEWKNXgtA start=84 end=188 >}}
 
