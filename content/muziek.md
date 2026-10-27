@@ -1,5 +1,6 @@
 +++
 title = 'Muziek'
+type = 'default'
 +++
 ## Sites:
 
